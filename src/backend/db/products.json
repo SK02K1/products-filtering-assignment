@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "1",
+    "productName": "Printed Men Round Neck White T-Shirt",
+    "productImg": "https://rukminim1.flixcart.com/image/832/832/kufuikw0/t-shirt/t/5/m/xxl-5842076-hrx-by-hrithik-roshan-original-imag7kcs3ermt7gk.jpeg?q=70",
+    "productPrice": "505",
+    "brand": "HRX",
+    "rating": "4.3",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "idealFor": ["Men"]
+  },
+  {
+    "_id": "2",
+    "productName": "Printed Men Round Neck Grey T-Shirt",
+    "productImg": "https://rukminim1.flixcart.com/image/832/832/kufuikw0/t-shirt/3/s/p/m-8878383-hrx-by-hrithik-roshan-original-imag7kcsaggcgrwr.jpeg?q=70",
+    "productPrice": "380",
+    "brand": "HRX",
+    "rating": "3.8",
+    "sizes": ["L", "XL"],
+    "idealFor": ["Men"]
+  },
+  {
+    "_id": "3",
+    "productName": "Casual Bell Sleeves Geometric Print, Polka Print, Printed Women Light Blue Top",
+    "productImg": "https://rukminim1.flixcart.com/image/832/832/kl5hh8w0/top/e/i/h/s-116tkr2624a-selvia-original-imagyck2mxh5qvzz.jpeg?q=70",
+    "productPrice": "600",
+    "brand": "Selvia",
+    "rating": "4.1",
+    "sizes": ["XL"],
+    "idealFor": ["Women"]
+  },
+  {
+    "_id": "4",
+    "productName": "Color Block Men Round Neck Blue, Green T-Shirt",
+    "productImg": "https://rukminim1.flixcart.com/image/832/832/l111lzk0/t-shirt/b/d/g/s-14701926-hrx-by-hrithik-roshan-original-imagczgg4cmrfdkb.jpeg?q=70",
+    "productPrice": "782",
+    "brand": "HRX",
+    "rating": "4.5",
+    "sizes": ["S", "M", "L", "XL"],
+    "idealFor": ["Men"]
+  },
+  {
+    "_id": "5",
+    "productName": "Casual Regular Sleeves Solid Women Multicolor Top",
+    "productImg": "https://rukminim1.flixcart.com/image/832/832/ky0g58w0/top/8/s/2/xs-291tk144-selvia-original-imagacextuafgtfg.jpeg?q=70",
+    "productPrice": "349",
+    "brand": "Selvia",
+    "rating": "3.7",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "idealFor": ["Women"]
+  },
+  {
+    "_id": "6",
+    "productName": "Solid Men Round Neck Black T-Shirt",
+    "productImg": "https://rukminim1.flixcart.com/image/832/832/l02r1jk0/t-shirt/g/r/q/m-hb0884-adidas-original-imagbxyjuadfngr5.jpeg?q=70",
+    "productPrice": "829",
+    "brand": "ADIDAS",
+    "rating": "4.5",
+    "sizes": ["XS", "S", "M"],
+    "idealFor": ["Men"]
+  },
+  {
+    "_id": "7",
+    "productName": "Casual Cape Sleeves Printed Women Blue Top",
+    "productImg": "https://rukminim1.flixcart.com/image/832/832/kvvad8w0/top/t/w/9/l-84-fab-star-original-imag8zesgecwzsh5.jpeg?q=70",
+    "productPrice": "560",
+    "brand": "Fab Star",
+    "rating": "3.9",
+    "sizes": ["S", "M"],
+    "idealFor": ["Women"]
+  },
+  {
+    "_id": "8",
+    "productName": "Casual Bell Sleeves Printed Women Multicolor Top",
+    "productImg": "https://rukminim1.flixcart.com/image/832/832/kshtxu80/top/t/n/j/m-215tk113-selvia-original-imag6fvb2kq3fxsw.jpeg?q=70",
+    "productPrice": "299",
+    "brand": "Selvia",
+    "rating": "4.2",
+    "sizes": ["S", "M", "L", "XL"],
+    "idealFor": ["Women"]
+  },
+  {
+    "_id": "9",
+    "productName": "Printed Men Crew Neck Black T-Shirt",
+    "productImg": "https://rukminim1.flixcart.com/image/832/832/l1ch4sw0/t-shirt/z/v/5/s-gu7492-adidas-original-imagcxhq3hmgbgfb.jpeg?q=70",
+    "productPrice": "719",
+    "brand": "ADIDAS",
+    "rating": "4.3",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "idealFor": ["Men"]
+  },
+  {
+    "_id": "10",
+    "productName": "Casual Regular Sleeves Solid Women Pink Top",
+    "productImg": "https://rukminim1.flixcart.com/image/832/832/klphn680/top/n/5/x/xl-regular-top-fab-star-original-imagyry2geb5ztzq.jpeg?q=70",
+    "productPrice": "379",
+    "brand": "Fab Star",
+    "rating": "4.1",
+    "sizes": ["S", "M", "L"],
+    "idealFor": ["Women"]
+  }
+]
